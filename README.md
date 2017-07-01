@@ -13,4 +13,8 @@ Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
 ```
 
-Otherwise URI will be used to match against files in the `static` child folder of wherever you run this command. This folder comes with Bootstrap by default. This functionality might change.
+Otherwise URI will be used to match against files in the `static` child folder of wherever you run this command.
+
+## License
+
+You can use this as public domain with no attribution. If your jurisdiction does not recognize public domain dedication, you may use this code under an MIT license.
